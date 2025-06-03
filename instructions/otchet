@@ -60,3 +60,10 @@ nano /etc/sysconfig/dhcpd
 DHCPDARGS=ens19.200
 Ctrl + o Ctrl + x
 systemctl enable dhcpd --now
+
+
+Пользователи:
+root toor
+user P@ssw0rd
+net_admin P@ssword
+sshuser P@ssw0rd
