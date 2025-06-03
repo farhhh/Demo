@@ -42,3 +42,11 @@ surfraw google *zapros*
 ---cartinki v terminale
 dnf install catimg
 catimg *image.png*
+
+
+---Ydalenie istorii
+HISTCONTROL=ignorespace
+Пробел history смотрим нужные строки
+Пробел history -d строка 
+Пробел history для проверки
+Вуаля, история не сохранилась
